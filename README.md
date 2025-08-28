@@ -25,5 +25,10 @@ It demonstrates data cleaning, modeling, DAX measures, and dashboard design.
 
 ## 📌 Dashboard Preview
 (Add a screenshot here once uploaded)
-
+git init
+git add .
+git commit -m "Initial commit - Bike Sales Analysis Project"
+git branch -M main
+git remote add origin https://github.com/USERNAME/bike-sales-analysis-europe.git
+git push -u origin main
 ---
