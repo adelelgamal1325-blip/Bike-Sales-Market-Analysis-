@@ -16,9 +16,9 @@ It demonstrates data cleaning, modeling, DAX measures, and dashboard design.
 - Profit margins varied across product categories.
 
 ## 📂 Files
-- `Bike_Sales_Dashboard.pbix` → Power BI Dashboard
-- `Bike_Sales_Europe.csv` → Dataset (if small enough, or provide Kaggle link)
-- `README.md` → Project description
+- `Bike_Sales_Dashboard.pbix` → "D:\Data Analysis\Project\Bikes Market Sales Analysis.pbix"
+- `Bike_Sales_Europe.csv` → "D:\Data Analysis\Project\bike.csv"
+- `README.md` → "D:\Data Analysis\Project\README.md"
 
 ## 📌 Dataset Source
 [Kaggle – Bike Sales in Europe](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
