@@ -24,4 +24,5 @@ It demonstrates data cleaning, modeling, DAX measures, and dashboard design.
 [Kaggle – Bike Sales in Europe](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
 
 ## 📌 Dashboard Preview
-<img width="610" height="332" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/e70265e5-c303-4109-b87f-37865d264f51" />
+<img width="589" height="331" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/0714a1bb-3f98-41c2-8f4b-96ca07b1f7e9" />
+
