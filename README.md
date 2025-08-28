@@ -24,11 +24,4 @@ It demonstrates data cleaning, modeling, DAX measures, and dashboard design.
 [Kaggle – Bike Sales in Europe](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe)
 
 ## 📌 Dashboard Preview
-(Add a screenshot here once uploaded)
-git init
-git add .
-git commit -m "Initial commit - Bike Sales Analysis Project"
-git branch -M main
-git remote add origin https://github.com/USERNAME/bike-sales-analysis-europe.git
-git push -u origin main
----
+<img width="610" height="332" alt="Dashboard_preview" src="https://github.com/user-attachments/assets/e70265e5-c303-4109-b87f-37865d264f51" />
